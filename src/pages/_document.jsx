@@ -37,7 +37,7 @@ const modeScript = `
 
 export default function Document() {
   return (
-    <Html lang="en">
+    <Html lang="fa" dir="rtl">
       <Head>
         <script dangerouslySetInnerHTML={{ __html: modeScript }} />
       </Head>
